@@ -2,11 +2,10 @@
 
 📚 Dev log of what I’ve been learning across various fields
 
---
 
 ### Web Scraping in Python - Course Checklist (2024)
 
-- [ ] Introduction  
+- [x] Introduction  
 - [ ] Introduction to Beautiful Soup  
 - [ ] Project #1: Scraping Multiple Pages with Beautiful Soup  
 - [ ] XPath  
