@@ -2,8 +2,8 @@
 
 📚 Dev log of what I’ve been learning across various fields
 
-
-### Web Scraping in Python - Course Checklist (2024)
+<details>
+<summary>Web Scraping in Python - Course Checklist (2024)</summary>
 
 - [x] Introduction  
 - [ ] Introduction to Beautiful Soup  
@@ -22,3 +22,5 @@
 - [ ] Prize: ChatGPT for Web Scraping  
 - [ ] Appendix: Infinite Scrolling & Login (Twitter Bot)  
 - [ ] Bonus: Python for Data Science Bootcamp 2022: From Zero to Hero  
+
+</details>
