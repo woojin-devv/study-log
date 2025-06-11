@@ -1,7 +1,10 @@
 # study-log
+
 📚 Dev log of what I’ve been learning across various fields
+
 --
-# Web Scraping in Python - Course Checklist (2024)
+
+### Web Scraping in Python - Course Checklist (2024)
 
 - [ ] Introduction  
 - [ ] Introduction to Beautiful Soup  
